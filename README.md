@@ -1,16 +1,54 @@
-## Hi there 👋
+## Hi, I'm Rafael Felipe 👋
 
-<!--
-**devRafaelFelipe/devRafaelFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Intelligence & Automation** · I turn operational data into decisions and repetitive work into automated flows.
 
-Here are some ideas to get you started:
+I work in **Continuous Improvement at DHL Supply Chain**, supporting automotive logistics in Brazil. My dashboards and automations there earned **three Kaizen awards**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Power BI reports that answer a business question, not just show charts
+- 🛠️ Internal tools built end to end, from the data to the app people use every day
+- 🤖 Python and RPA automations that remove manual, error-prone work
+- 🌎 Open to **remote roles with international teams**
+
+---
+
+### Featured project
+
+**[Procurement KPI Dashboard](https://github.com/devRafaelFelipe/procurement-kpi-dashboard)**: a one-page Power BI report that shows a sourcing team where its savings come from, where money is being left on the table and what to do next.
+
+Star-schema model · DAX · Power Query · Deneb / Vega-Lite · data-driven recommendations · WCAG 2.1 AA checked
+
+[![Procurement KPI Dashboard](https://raw.githubusercontent.com/devRafaelFelipe/procurement-kpi-dashboard/main/docs/dashboard.png)](https://github.com/devRafaelFelipe/procurement-kpi-dashboard)
+
+---
+
+### What I build at work
+
+Internal solutions in production. The code is private, so public versions with fictional data are on the way.
+
+| Solution | What it replaced | Built with |
+|---|---|---|
+| **Project tracking system**: an app where project managers update their projects, feeding a live dashboard | Status decks assembled by hand in PowerPoint, project by project | Power Apps, SharePoint Lists, Power BI |
+| **Presentation generators**: governance and readiness decks built automatically from the team's Excel bases | Manually pasting chart screenshots into PowerPoint | Python, Node.js (pptxgenjs) |
+| **Sourcing dashboard** 🏆 Kaizen | A manual report, now produced 90% faster | Power BI, DAX, HTML |
+| **IT asset validation tool** 🏆 Kaizen: managers physically check notebooks and desktops against the register | Spreadsheet checks with no audit trail | HTML/JS, Python (fuzzy matching), automated tests with Puppeteer |
+| **Freight audit tool** for a team of five auditors: flags invoice divergences and anomalies | Line-by-line checking in spreadsheets | HTML/JS, Python |
+| **Web-system RPA** 🏆 Kaizen: fills transport cost fields across plants automatically | Repetitive manual data entry | Python, Playwright |
+
+---
+
+### Toolkit
+
+| Area | Tools |
+|---|---|
+| **BI & analytics** | Power BI, DAX, Power Query (M), Deneb / Vega-Lite, Excel |
+| **Automation** | Python (pandas, openpyxl, Playwright), Power Automate, RPA |
+| **Apps & web** | Power Apps, SharePoint, HTML/CSS/JavaScript, Node.js |
+| **Workflow** | Git, Microsoft 365 |
+
+### Languages
+
+Portuguese (native) · English (professional) · Spanish (intermediate)
+
+---
+
+📍 Minas Gerais, Brazil (UTC−3) · [LinkedIn](https://www.linkedin.com/in/rafaelfelipeps/)
