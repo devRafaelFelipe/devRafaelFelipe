@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Rafael Felipe. Data and Automation: dashboards, apps and automation." width="100%">
+<img src="https://raw.githubusercontent.com/devRafaelFelipe/devRafaelFelipe/main/banner.png?v=3" alt="Rafael Felipe. Data and Automation: dashboards, apps and automation." width="100%">
 
 I turn operational data into decisions and repetitive work into automated flows. Today I do this in **Continuous Improvement at DHL Supply Chain**, building the whole solution for automotive logistics teams in Brazil: the data model, the dashboard, the app people use every day and the automation that removes the manual work.
 
@@ -58,15 +58,15 @@ Flags invoice divergences and anomalies for a team of five auditors. Replaced li
 ![Python](https://img.shields.io/badge/Python-0B5C55?style=flat-square) ![pandas](https://img.shields.io/badge/pandas-0B5C55?style=flat-square) ![openpyxl](https://img.shields.io/badge/openpyxl-0B5C55?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-0B5C55?style=flat-square) ![Power Automate](https://img.shields.io/badge/Power_Automate-0B5C55?style=flat-square) ![RPA](https://img.shields.io/badge/RPA-0B5C55?style=flat-square)
 
 **Apps & web**<br>
-![Power Apps](https://img.shields.io/badge/Power_Apps-0B5C55?style=flat-square) ![SharePoint](https://img.shields.io/badge/SharePoint-0B5C55?style=flat-square) ![HTML/CSS/JS](https://img.shields.io/badge/HTML_/_CSS_/_JavaScript-0B5C55?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0B5C55?style=flat-square) ![Git](https://img.shields.io/badge/Git-0B5C55?style=flat-square)
-
-**Languages**: Portuguese (native) · English (professional) · Spanish (intermediate)
+![Power Apps](https://img.shields.io/badge/Power_Apps-0B5C55?style=flat-square) ![SharePoint](https://img.shields.io/badge/SharePoint-0B5C55?style=flat-square) ![HTML/CSS](https://img.shields.io/badge/HTML_/_CSS-0B5C55?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-0B5C55?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0B5C55?style=flat-square)
 
 ---
 
 ### 📫 Let's talk
 
-Have a reporting or automation problem worth solving? Let’s talk.
+Have a reporting or automation problem worth solving? Let's talk.
+
+**Spoken languages:** Portuguese (native) · English (B2, professional working) · Spanish (intermediate)
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0B5C55?style=for-the-badge)](https://www.linkedin.com/in/rafaelfelipeps/)
 
