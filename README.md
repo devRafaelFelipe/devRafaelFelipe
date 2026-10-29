@@ -2,7 +2,6 @@
 
 I turn operational data into decisions and repetitive work into automated flows. Today I do this in **Continuous Improvement at DHL Supply Chain**, building the whole solution for automotive logistics teams in Brazil: the data model, the dashboard, the app people use every day and the automation that removes the manual work.
 
-**Open to remote roles with international teams.**
 
 ---
 
