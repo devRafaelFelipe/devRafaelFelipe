@@ -66,7 +66,7 @@ Flags invoice divergences and anomalies for a team of five auditors. Replaced li
 
 ### 📫 Let's talk
 
-Open to remote BI and automation roles with international teams.
+Have a reporting or automation problem worth solving? Let’s talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0B5C55?style=for-the-badge)](https://www.linkedin.com/in/rafaelfelipeps/)
 
