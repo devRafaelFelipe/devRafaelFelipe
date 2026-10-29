@@ -1,54 +1,73 @@
-## Hi, I'm Rafael Felipe 👋
+<img src="assets/banner.png" alt="Rafael Felipe, Data & Automation. I turn operational data into decisions and repetitive work into automated flows: dashboards, apps and automation." width="100%">
 
-**Business Intelligence & Automation** · I turn operational data into decisions and repetitive work into automated flows.
-
-I work in **Continuous Improvement at DHL Supply Chain**, supporting automotive logistics in Brazil. My dashboards and automations there earned **three Kaizen awards**.
+I work in **Continuous Improvement at DHL Supply Chain**, supporting automotive logistics in Brazil. I build the whole solution: the data model, the dashboard, the app people use every day and the automation that removes the manual work.
 
 - 📊 Power BI reports that answer a business question, not just show charts
-- 🛠️ Internal tools built end to end, from the data to the app people use every day
+- 🛠️ Internal tools built end to end, from the data to the app
 - 🤖 Python and RPA automations that remove manual, error-prone work
 - 🌎 Open to **remote roles with international teams**
 
 ---
 
-### Featured project
+### ⭐ Featured project
 
 **[Procurement KPI Dashboard](https://github.com/devRafaelFelipe/procurement-kpi-dashboard)**: a one-page Power BI report that shows a sourcing team where its savings come from, where money is being left on the table and what to do next.
 
-Star-schema model · DAX · Power Query · Deneb / Vega-Lite · data-driven recommendations · WCAG 2.1 AA checked
+![Power BI](https://img.shields.io/badge/Power_BI-0B5C55?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-0B5C55?style=flat-square) ![Power Query](https://img.shields.io/badge/Power_Query-0B5C55?style=flat-square) ![Deneb / Vega-Lite](https://img.shields.io/badge/Deneb_/_Vega--Lite-0B5C55?style=flat-square) ![WCAG 2.1 AA](https://img.shields.io/badge/WCAG_2.1_AA-checked-5E7C78?style=flat-square)
 
-[![Procurement KPI Dashboard](https://raw.githubusercontent.com/devRafaelFelipe/procurement-kpi-dashboard/main/docs/dashboard.png)](https://github.com/devRafaelFelipe/procurement-kpi-dashboard)
+<a href="https://github.com/devRafaelFelipe/procurement-kpi-dashboard"><img src="https://raw.githubusercontent.com/devRafaelFelipe/procurement-kpi-dashboard/main/docs/dashboard.png" alt="One-page Power BI dashboard with savings KPIs, monthly savings against last year, savings by commodity, top suppliers with quality bands, premium paid above the lowest bid, on-time award by priority and a recommended-actions panel." width="100%"></a>
 
 ---
 
-### What I build at work
+### 🏭 What I build at work
 
 Internal solutions in production. The code is private, so public versions with fictional data are on the way.
 
-| Solution | What it replaced | Built with |
-|---|---|---|
-| **Sourcing dashboard**<br>Tracks every sourcing request and its status for the team<br>🏆 *Kaizen award* | A manual report, now produced 90% faster | Power BI, DAX, HTML |
-| **IT asset validation tool**<br>Managers physically check notebooks and desktops against the register<br>🏆 *Kaizen award* | Spreadsheet checks with no audit trail | HTML/JS, Python (fuzzy matching), Puppeteer tests |
-| **Web-system RPA**<br>Fills transport cost fields across plants automatically<br>🏆 *Kaizen award* | Repetitive manual data entry | Python, Playwright |
-| **Project tracking system**<br>An app where project managers update their projects, feeding a live dashboard | Status decks assembled by hand in PowerPoint, project by project | Power Apps, SharePoint Lists, Power BI |
-| **Presentation generators**<br>Governance and readiness decks built automatically from the team's Excel bases | Manually pasting chart screenshots into PowerPoint | Python, Node.js (pptxgenjs) |
-| **Freight audit tool**<br>Flags invoice divergences and anomalies for a team of five auditors | Line-by-line checking in spreadsheets | HTML/JS, Python |
+**🏆 Sourcing dashboard** · *Kaizen award*<br>
+Tracks every sourcing request and its status for the team. Replaced a manual report and now takes **90% less time** to produce.<br>
+<sub>Power BI · DAX · HTML</sub>
+
+**🏆 IT asset validation tool** · *Kaizen award*<br>
+Managers physically check notebooks and desktops against the register. Replaced spreadsheet checks that left no audit trail.<br>
+<sub>HTML/JS · Python (fuzzy matching) · Puppeteer tests</sub>
+
+**🏆 Transport cost RPA** · *Kaizen award*<br>
+Fills transport cost fields across plants in a web system automatically. Replaced repetitive manual data entry.<br>
+<sub>Python · Playwright</sub>
+
+**Project tracking system**<br>
+An app where project managers update their projects, feeding a live dashboard. Replaced status decks assembled by hand in PowerPoint, project by project.<br>
+<sub>Power Apps · SharePoint Lists · Power BI</sub>
+
+**Presentation generators**<br>
+Governance and readiness decks built automatically from the team's Excel bases. Replaced pasting chart screenshots into PowerPoint by hand.<br>
+<sub>Python · Node.js (pptxgenjs)</sub>
+
+**Freight audit tool**<br>
+Flags invoice divergences and anomalies for a team of five auditors. Replaced line-by-line checking in spreadsheets.<br>
+<sub>HTML/JS · Python</sub>
 
 ---
 
-### Toolkit
+### 🧰 Toolkit
 
-| Area | Tools |
-|---|---|
-| **BI & analytics** | Power BI, DAX, Power Query (M), Deneb / Vega-Lite, Excel |
-| **Automation** | Python (pandas, openpyxl, Playwright), Power Automate, RPA |
-| **Apps & web** | Power Apps, SharePoint, HTML/CSS/JavaScript, Node.js |
-| **Workflow** | Git, Microsoft 365 |
+**BI & analytics**<br>
+![Power BI](https://img.shields.io/badge/Power_BI-0B5C55?style=flat-square) ![DAX](https://img.shields.io/badge/DAX-0B5C55?style=flat-square) ![Power Query](https://img.shields.io/badge/Power_Query_%28M%29-0B5C55?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-0B5C55?style=flat-square) ![Deneb / Vega-Lite](https://img.shields.io/badge/Deneb_/_Vega--Lite-0B5C55?style=flat-square) ![Excel](https://img.shields.io/badge/Excel-0B5C55?style=flat-square)
 
-### Languages
+**Automation**<br>
+![Python](https://img.shields.io/badge/Python-0B5C55?style=flat-square) ![pandas](https://img.shields.io/badge/pandas-0B5C55?style=flat-square) ![openpyxl](https://img.shields.io/badge/openpyxl-0B5C55?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-0B5C55?style=flat-square) ![Power Automate](https://img.shields.io/badge/Power_Automate-0B5C55?style=flat-square) ![RPA](https://img.shields.io/badge/RPA-0B5C55?style=flat-square)
 
-Portuguese (native) · English (professional) · Spanish (intermediate)
+**Apps & web**<br>
+![Power Apps](https://img.shields.io/badge/Power_Apps-0B5C55?style=flat-square) ![SharePoint](https://img.shields.io/badge/SharePoint-0B5C55?style=flat-square) ![HTML/CSS/JS](https://img.shields.io/badge/HTML_/_CSS_/_JavaScript-0B5C55?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0B5C55?style=flat-square) ![Git](https://img.shields.io/badge/Git-0B5C55?style=flat-square)
+
+**Languages**: Portuguese (native) · English (professional) · Spanish (intermediate)
 
 ---
 
-📍 Minas Gerais, Brazil (UTC−3) · [LinkedIn](https://www.linkedin.com/in/rafaelfelipeps/)
+### 📫 Let's talk
+
+Open to remote BI and automation roles with international teams.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0B5C55?style=for-the-badge)](https://www.linkedin.com/in/rafaelfelipeps/)
+
+<sub>📍 Minas Gerais, Brazil · UTC−3</sub>
