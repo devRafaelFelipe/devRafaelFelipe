@@ -19,33 +19,34 @@ I work in **Continuous Improvement at DHL Supply Chain**, supporting automotive 
 
 ---
 
-### 🏭 What I build at work
+### 🛠️ What I build at work
 
-Internal solutions in production. The code is private, so public versions with fictional data are on the way.
+Internal solutions in production. The code is private, so public versions with fictional data are on the way.<br>
+<sub>🏆 Kaizen award = recognised by the company's continuous improvement programme.</sub>
 
 **🏆 Sourcing dashboard** · *Kaizen award*<br>
 Tracks every sourcing request and its status for the team. Replaced a manual report and now takes **90% less time** to produce.<br>
-<sub>Power BI · DAX · HTML</sub>
+`Power BI` `DAX` `HTML`
 
 **🏆 IT asset validation tool** · *Kaizen award*<br>
 Managers physically check notebooks and desktops against the register. Replaced spreadsheet checks that left no audit trail.<br>
-<sub>HTML/JS · Python (fuzzy matching) · Puppeteer tests</sub>
+`HTML/JS` `Python` `fuzzy matching` `Puppeteer`
 
 **🏆 Transport cost RPA** · *Kaizen award*<br>
 Fills transport cost fields across plants in a web system automatically. Replaced repetitive manual data entry.<br>
-<sub>Python · Playwright</sub>
+`Python` `Playwright`
 
 **Project tracking system**<br>
 An app where project managers update their projects, feeding a live dashboard. Replaced status decks assembled by hand in PowerPoint, project by project.<br>
-<sub>Power Apps · SharePoint Lists · Power BI</sub>
+`Power Apps` `SharePoint Lists` `Power BI`
 
 **Presentation generators**<br>
 Governance and readiness decks built automatically from the team's Excel bases. Replaced pasting chart screenshots into PowerPoint by hand.<br>
-<sub>Python · Node.js (pptxgenjs)</sub>
+`Python` `Node.js` `pptxgenjs`
 
 **Freight audit tool**<br>
 Flags invoice divergences and anomalies for a team of five auditors. Replaced line-by-line checking in spreadsheets.<br>
-<sub>HTML/JS · Python</sub>
+`HTML/JS` `Python`
 
 ---
 
