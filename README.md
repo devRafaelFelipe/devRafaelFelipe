@@ -27,12 +27,12 @@ Internal solutions in production. The code is private, so public versions with f
 
 | Solution | What it replaced | Built with |
 |---|---|---|
-| **Project tracking system**: an app where project managers update their projects, feeding a live dashboard | Status decks assembled by hand in PowerPoint, project by project | Power Apps, SharePoint Lists, Power BI |
-| **Presentation generators**: governance and readiness decks built automatically from the team's Excel bases | Manually pasting chart screenshots into PowerPoint | Python, Node.js (pptxgenjs) |
-| **Sourcing dashboard** 🏆 Kaizen | A manual report, now produced 90% faster | Power BI, DAX, HTML |
-| **IT asset validation tool** 🏆 Kaizen: managers physically check notebooks and desktops against the register | Spreadsheet checks with no audit trail | HTML/JS, Python (fuzzy matching), automated tests with Puppeteer |
-| **Freight audit tool** for a team of five auditors: flags invoice divergences and anomalies | Line-by-line checking in spreadsheets | HTML/JS, Python |
-| **Web-system RPA** 🏆 Kaizen: fills transport cost fields across plants automatically | Repetitive manual data entry | Python, Playwright |
+| **Sourcing dashboard**<br>Tracks every sourcing request and its status for the team<br>🏆 *Kaizen award* | A manual report, now produced 90% faster | Power BI, DAX, HTML |
+| **IT asset validation tool**<br>Managers physically check notebooks and desktops against the register<br>🏆 *Kaizen award* | Spreadsheet checks with no audit trail | HTML/JS, Python (fuzzy matching), Puppeteer tests |
+| **Web-system RPA**<br>Fills transport cost fields across plants automatically<br>🏆 *Kaizen award* | Repetitive manual data entry | Python, Playwright |
+| **Project tracking system**<br>An app where project managers update their projects, feeding a live dashboard | Status decks assembled by hand in PowerPoint, project by project | Power Apps, SharePoint Lists, Power BI |
+| **Presentation generators**<br>Governance and readiness decks built automatically from the team's Excel bases | Manually pasting chart screenshots into PowerPoint | Python, Node.js (pptxgenjs) |
+| **Freight audit tool**<br>Flags invoice divergences and anomalies for a team of five auditors | Line-by-line checking in spreadsheets | HTML/JS, Python |
 
 ---
 
@@ -40,7 +40,7 @@ Internal solutions in production. The code is private, so public versions with f
 
 | Area | Tools |
 |---|---|
-| **BI & analytics** | Power BI, DAX, Power Query (M), SQL, Deneb / Vega-Lite, Excel |
+| **BI & analytics** | Power BI, DAX, Power Query (M), Deneb / Vega-Lite, Excel |
 | **Automation** | Python (pandas, openpyxl, Playwright), Power Automate, RPA |
 | **Apps & web** | Power Apps, SharePoint, HTML/CSS/JavaScript, Node.js |
 | **Workflow** | Git, Microsoft 365 |
