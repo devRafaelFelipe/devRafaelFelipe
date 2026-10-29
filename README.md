@@ -40,7 +40,7 @@ Internal solutions in production. The code is private, so public versions with f
 
 | Area | Tools |
 |---|---|
-| **BI & analytics** | Power BI, DAX, Power Query (M), Deneb / Vega-Lite, Excel |
+| **BI & analytics** | Power BI, DAX, Power Query (M), SQL, Deneb / Vega-Lite, Excel |
 | **Automation** | Python (pandas, openpyxl, Playwright), Power Automate, RPA |
 | **Apps & web** | Power Apps, SharePoint, HTML/CSS/JavaScript, Node.js |
 | **Workflow** | Git, Microsoft 365 |
