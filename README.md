@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Rafael Felipe, Data & Automation. I turn operational data into decisions and repetitive work into automated flows: dashboards, apps and automation." width="100%">
+<img src="banner.png" alt="Rafael Felipe, Data & Automation. I turn operational data into decisions and repetitive work into automated flows: dashboards, apps and automation." width="100%">
 
 I work in **Continuous Improvement at DHL Supply Chain**, supporting automotive logistics in Brazil. I build the whole solution: the data model, the dashboard, the app people use every day and the automation that removes the manual work.
 
