@@ -42,10 +42,6 @@ An app where project managers update their projects, feeding a live dashboard. R
 Governance and readiness decks built automatically from the team's Excel bases. Replaced pasting chart screenshots into PowerPoint by hand.<br>
 `Python` `Node.js` `pptxgenjs`
 
-**Freight audit tool**<br>
-Flags invoice divergences and anomalies for a team of five auditors. Replaced line-by-line checking in spreadsheets.<br>
-`HTML/JS` `Python`
-
 ---
 
 ### 🧰 Toolkit
@@ -65,8 +61,8 @@ Flags invoice divergences and anomalies for a team of five auditors. Replaced li
 
 Have a reporting or automation problem worth solving? Let's talk.
 
-**Spoken languages:** Portuguese (native) · English (B2, professional working) · Spanish (intermediate)
+**Spoken languages:** Portuguese (native) · English (B2+, professional working proficiency) · Spanish (intermediate, B1)
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0B5C55?style=for-the-badge)](https://www.linkedin.com/in/rafaelfelipeps/)
 
-<sub>📍 Minas Gerais, Brazil · UTC−3</sub>
+<sub>📍 Minas Gerais, Brazil · UTC−3 · Open to remote work and relocation</sub>
