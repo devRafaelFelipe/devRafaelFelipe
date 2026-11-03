@@ -61,7 +61,7 @@ Governance and readiness decks built automatically from the team's Excel bases. 
 
 Have a reporting or automation problem worth solving? Let's talk.
 
-**Spoken languages:** Portuguese (native) · English (B2+, professional working proficiency) · Spanish (intermediate, B1)
+**Spoken languages:** Portuguese (native) · English (B2, professional working proficiency) · Spanish (intermediate, B1)
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0B5C55?style=for-the-badge)](https://www.linkedin.com/in/rafaelfelipeps/)
 
